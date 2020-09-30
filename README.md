@@ -1,4 +1,4 @@
-### Hi there 👋
+### Halo, Selamat datang di repositori saya 👋
 
 Here are some ideas to get you started:
 
