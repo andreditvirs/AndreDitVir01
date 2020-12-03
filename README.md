@@ -9,6 +9,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about C, Java, HTML, CSS, JavaScript, And PHP
 - 💬 Ask me about Framework : Laravel, React JS
 - 📫 How to reach me: novaandre.saputraadit@gmail.com or [Andreditvirs Web](https://andreditvir01.github.io)
+- :earth_asia: Save My Tutorial : [Andreditvirs Gist Store](https://gist.github.com/AndreDitVir01)
 - 😄 Pronouns: Javanese, Indonesian, and English
 - ⚡ Fun fact: Badminton and Fishing
+
 
