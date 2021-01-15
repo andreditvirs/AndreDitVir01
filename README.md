@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Web Developer Community
 - :earth_asia: I'm the owner of  [Smart Matematika Webiste](https://smartmatematikaners.000webhostapp.com)
 - 💬 Ask me about C, Java, HTML, CSS, JavaScript, And PHP
-- 💬 Ask me about Framework : Laravel, React JS
+- 💬 Ask me about Framework : Laravel, React JS, Vue JS
 - 💬 Ask me about Library : Bootstrap
 - 📫 How to reach me: novaandre.saputraadit@gmail.com or [Andreditvirs Web](https://andreditvir01.github.io)
 - :earth_asia: Save My Tutorial : [Andreditvirs Gist Store](https://gist.github.com/AndreDitVir01)
